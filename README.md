@@ -8,6 +8,11 @@ A Windows-based WiFi security monitoring tool that detects rogue access points (
 
 ## Features
 
+### 🎥 Demo Video
+Watch RogueFinder in action:
+
+<video src="RogueAPFinder.mp4" width="320" height="240" controls></video>
+
 ### 🔍 Detection Capabilities
 - **Active Scanning**: Scans all visible access points, not just your current connection
 - **BSSID Monitoring**: Tracks MAC addresses (BSSIDs) of legitimate access points
